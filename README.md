@@ -1,7 +1,13 @@
 # Virus-Starter
 Batch Virus template
 
+Requires to be run as Administrator
+
 # Functions
+Disables Recovery Options in windows
+  1. Disable Startup Repair from trying to start when a problem is detected
+  2. Disable Windows recovery at startup
+
 Adds to startup via multiple methods:
   1. Copy's itself into the autoexec.bat 
   2. HAT method (Hooking Autoexec.bat)
